@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soeren-b-c
 - 👀 I’m interested in Free Software and getting enough sleep
-- 🌱 I’m currently learning Python
+- 🌱 ~~I’m currently learning Python~~
 - 📫 How to reach me / Want to know more: https://soerenbredlundcaspersen.dk/about/
 
 <!---
